@@ -1,9 +1,5 @@
 # 🌾 Zé da Safra
 
-![Logo da Zé da Safra - Adicione uma logo ou imagem que represente o projeto](link_para_a_logo.png)
-
----
-
 ### 🌱 Nossa Missão
 
 O **Zé da Safra** é uma iniciativa dedicada a **[descreva a missão do projeto, por exemplo: "desenvolver soluções de tecnologia para o setor agrícola, otimizando processos e promovendo a inovação no campo."]**
